@@ -1,0 +1,322 @@
+FindNextStepAI, can i go there?
+My values: 17, 20
+CanIGoThere values: 5, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 17, 20
+CanIGoThere values: 5, 5
+false left
+FindNextStepAI, can i go there?
+My values: 16, 19
+CanIGoThere values: 4, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 16, 19
+CanIGoThere values: 4, 7
+false left
+FindNextStepAI, can i go there?
+My values: 17, 19
+CanIGoThere values: 5, 7
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 17, 19
+CanIGoThere values: 5, 7
+false left
+FindNextStepAI, can i go there?
+My values: 17, 19
+CanIGoThere values: 6, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 17, 19
+CanIGoThere values: 6, 6
+false left
+FindNextStepAI, can i go there?
+My values: 30, 22
+CanIGoThere values: 8, 8
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 30, 22
+CanIGoThere values: 8, 8
+FindNextStepAI, can i go there?
+My values: 30, 21
+CanIGoThere values: 8, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 30, 21
+CanIGoThere values: 8, 6
+FindNextStepAI, can i go there?
+My values: 29, 21
+CanIGoThere values: 9, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 29, 21
+CanIGoThere values: 9, 5
+false left
+FindNextStepAI, can i go there?
+My values: 27, 21
+CanIGoThere values: 7, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 27, 21
+CanIGoThere values: 7, 5
+false left
+FindNextStepAI, can i go there?
+My values: 27, 20
+CanIGoThere values: 7, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 27, 20
+CanIGoThere values: 7, 6
+false left
+FindNextStepAI, can i go there?
+My values: 28, 20
+CanIGoThere values: 9, 7
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 28, 20
+CanIGoThere values: 9, 7
+false left
+FindNextStepAI, can i go there?
+My values: 29, 20
+CanIGoThere values: 10, 7
+FindNextStepAI, can i go there?
+My values: 30, 21
+CanIGoThere values: 10, 7
+FindNextStepAI, can i go there?
+My values: 31, 22
+CanIGoThere values: 10, 8
+FindNextStepAI, can i go there?
+My values: 32, 22
+CanIGoThere values: 10, 8
+FindNextStepAI, can i go there?
+My values: 33, 22
+CanIGoThere values: 9, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 33, 22
+CanIGoThere values: 9, 6
+false left
+FindNextStepAI, can i go there?
+My values: 33, 21
+CanIGoThere values: 9, 7
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 33, 21
+CanIGoThere values: 9, 7
+FindNextStepAI, can i go there?
+My values: 34, 20
+CanIGoThere values: 9, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 34, 20
+CanIGoThere values: 9, 6
+FindNextStepAI, can i go there?
+My values: 33, 20
+CanIGoThere values: 9, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 33, 20
+CanIGoThere values: 9, 5
+false left
+FindNextStepAI, can i go there?
+My values: 33, 19
+CanIGoThere values: 9, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 33, 19
+CanIGoThere values: 9, 6
+false left
+FindNextStepAI, can i go there?
+My values: 34, 19
+CanIGoThere values: 10, 7
+FindNextStepAI, can i go there?
+My values: 35, 18
+CanIGoThere values: 10, 6
+FindNextStepAI, can i go there?
+My values: 35, 18
+CanIGoThere values: 10, 4
+FindNextStepAI, can i go there?
+My values: 35, 17
+CanIGoThere values: 10, 6
+FindNextStepAI, can i go there?
+My values: 34, 16
+CanIGoThere values: 9, 4
+FindNextStepAI, can i go there?
+My values: 34, 15
+CanIGoThere values: 9, 6
+FindNextStepAI, can i go there?
+My values: 34, 15
+CanIGoThere values: 9, 3
+FindNextStepAI, can i go there?
+My values: 33, 15
+CanIGoThere values: 10, 3
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 33, 15
+CanIGoThere values: 10, 3
+false left
+FindNextStepAI, can i go there?
+My values: 32, 15
+CanIGoThere values: 10, 3
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 32, 15
+CanIGoThere values: 10, 3
+false left
+FindNextStepAI, can i go there?
+My values: 31, 14
+CanIGoThere values: 8, 4
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 31, 14
+CanIGoThere values: 8, 4
+FindNextStepAI, can i go there?
+My values: 31, 14
+CanIGoThere values: 8, 3
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 31, 14
+CanIGoThere values: 8, 3
+false left
+FindNextStepAI, can i go there?
+My values: 30, 13
+CanIGoThere values: 8, 4
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 30, 13
+CanIGoThere values: 8, 4
+FindNextStepAI, can i go there?
+My values: 30, 12
+CanIGoThere values: 8, 3
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 30, 12
+CanIGoThere values: 8, 3
+false left
+FindNextStepAI, can i go there?
+My values: 29, 12
+CanIGoThere values: 8, 3
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 29, 12
+CanIGoThere values: 8, 3
+false left
+FindNextStepAI, can i go there?
+My values: 30, 11
+CanIGoThere values: 8, 4
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 30, 11
+CanIGoThere values: 10, 4
+false left
+FindNextStepAI, can i go there?
+My values: 33, 40
+CanIGoThere values: 10, 13
+FindNextStepAI, can i go there?
+My values: 34, 40
+CanIGoThere values: 9, 13
+FindNextStepAI, can i go there?
+My values: 35, 40
+CanIGoThere values: 10, 13
+FindNextStepAI, can i go there?
+My values: 35, 39
+CanIGoThere values: 10, 13
+FindNextStepAI, can i go there?
+My values: 36, 39
+CanIGoThere values: 11, 13
+FindNextStepAI, can i go there?
+My values: 37, 39
+CanIGoThere values: 10, 13
+FindNextStepAI, can i go there?
+My values: 38, 39
+CanIGoThere values: 12, 13
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 38, 39
+CanIGoThere values: 13, 13
+FindNextStepAI, can i go there?
+My values: 39, 38
+CanIGoThere values: 11, 13
+FindNextStepAI, can i go there?
+My values: 39, 38
+CanIGoThere values: 11, 12
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 39, 38
+CanIGoThere values: 11, 11
+FindNextStepAI, can i go there?
+My values: 38, 38
+CanIGoThere values: 12, 11
+FindNextStepAI, can i go there?
+My values: 38, 38
+CanIGoThere values: 12, 12
+FindNextStepAI, can i go there?
+My values: 8, 19
+CanIGoThere values: 3, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 8, 19
+CanIGoThere values: 3, 6
+false left
+FindNextStepAI, can i go there?
+My values: 7, 20
+CanIGoThere values: 3, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 7, 20
+CanIGoThere values: 3, 5
+false left
+FindNextStepAI, can i go there?
+My values: 7, 20
+CanIGoThere values: 1, 5
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 7, 20
+CanIGoThere values: 1, 5
+false left
+FindNextStepAI, can i go there?
+My values: 6, 20
+CanIGoThere values: 1, 6
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 6, 20
+CanIGoThere values: 1, 6
+false left
+FindNextStepAI, can i go there?
+My values: 7, 19
+CanIGoThere values: 2, 7
+false
+FindNextStepAI, i cant go there
+CanIGoToLeft beg
+My values: 7, 19
+CanIGoThere values: 2, 7
+false left

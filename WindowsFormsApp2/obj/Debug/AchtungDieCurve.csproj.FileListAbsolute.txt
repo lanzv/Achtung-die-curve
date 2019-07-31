@@ -1,0 +1,171 @@
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApp2v5\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v7\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\student\Desktop\WindowsFormsApp2v8\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v9\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\vl031488\Desktop\WindowsFormsApp2v10\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Desktop\WindowsFormsApp2v12\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v13\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v13 - kopie\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v132\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\WindowsFormsApp2v14\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\achtung die curve - upravuju\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb

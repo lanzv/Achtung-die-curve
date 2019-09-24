@@ -86,17 +86,18 @@ namespace AchtungDieCurve
             {
                 CanIGoThereRunning = true;
                 WindowOfGame.Log("FindNextStepAI, can i go there?");
+                
                 if (!CanIGoThere()) {
                     WindowOfGame.Log("FindNextStepAI, i cant go there");
-                    if (CanIGoToLeft())
-                    {
-                        TurningState = -1;
-                    }
-                    else
+                    if (!CanIGoToRight())
                     {
                         TurningState = 1;
                     }
-                    TurningCounter = 3;
+                    else
+                    {
+                        TurningState = -1;
+                    }
+                    TurningCounter = 10;
                 }
                 else
                 {
@@ -401,7 +402,7 @@ namespace AchtungDieCurve
             return a;
 
         }
-        public bool CanIGoToLeft()
+        public bool CanIGoToRight()
         {
             WindowOfGame.Log("CanIGoToLeft beg");
             Vector v = SetFirstField();
@@ -409,12 +410,12 @@ namespace AchtungDieCurve
             Vector v2 = new Vector();
             Vector u = new Vector();
             int i = 4;
-            u.x = positionAPCBig.x + i * (v.y - positionAPC.y);
-            u.y = positionAPCBig.x - i * (v.x - positionAPC.x);
+            u.x = positionAPCBig.x + i * (v.y - positionAPC.y); //prehozeny direction
+            u.y = positionAPCBig.y - i * (v.x - positionAPC.x); //prehozeny direction 
             v1 = FixIndexesForTurning(u);
             i = 1;
-            u.x = positionAPCBig.x + i * (v.y - positionAPC.y);
-            u.y = positionAPCBig.x - i * (v.x - positionAPC.x);
+            u.x = positionAPCBig.x + i * (v.x - positionAPC.x); //prehozeny direction
+            u.y = positionAPCBig.y - i * (v.y - positionAPC.y); //prehozeny direction
             v2 = FixIndexesForTurning(u);
 
             WindowOfGame.Log("My values: " + positionAPCBig.x + ", " + positionAPCBig.y);
@@ -430,26 +431,26 @@ namespace AchtungDieCurve
 
         public bool CanIGoThere()
         {
+            
             Vector v = SetFirstField();
             Vector v1 = new Vector();
             Vector v2 = new Vector();
             Vector u = new Vector();
             int i = 4;
-                u.x = positionAPCBig.x + i * (v.x - positionAPC.x);
-                u.y = positionAPCBig.x + i * (v.y - positionAPC.y);
-                v1 = FixIndexesForTurning(u);
+            u.x = positionAPCBig.x + i * (v.y - positionAPC.y); //prehozeny direction
+            u.y = positionAPCBig.y + i * (v.x - positionAPC.x); //prehozeny direction
+            v1 = FixIndexesForTurning(u);
             i = 1;
-            u.x = positionAPCBig.x + i * (v.x - positionAPC.x);
-            u.y = positionAPCBig.x + i * (v.y - positionAPC.y);
+            u.x = positionAPCBig.x + i * (v.y - positionAPC.y); //prehozeny direction
+            u.y = positionAPCBig.y + i * (v.x - positionAPC.x); //prehozeny direction
             v2 =  FixIndexesForTurning(u);
 
             WindowOfGame.Log("My values: " + positionAPCBig.x + ", " + positionAPCBig.y);
-                WindowOfGame.Log("CanIGoThere values: " + v.x + ", " + v.y);
-                if (WindowOfGame.GetApcMapBig().GetFieldValue((int)v1.x, (int)v1.y) == 1 || WindowOfGame.GetApcMapBig().GetFieldValue((int)v2.x, (int)v2.y) == 1)
-                {
+            if (WindowOfGame.GetApcMapBig().GetFieldValue((int)v1.x, (int)v1.y) == 1 || WindowOfGame.GetApcMapBig().GetFieldValue((int)v2.x, (int)v2.y) == 1)
+            {
                 WindowOfGame.Log("false");
-                    return false;
-                }
+                return false;
+            }
             
             return true;
         }

@@ -275,9 +275,12 @@ namespace AchtungDieCurve
             */
             
         }
-        public static void napisZpravu(string a)
+        public static void PrintMessage(string a)
         {
+            hra.PauseGame();
             MessageBox.Show(a);
+            hra.UnpauseGame();
+
         }
         private static void KillProgram()
         {

@@ -21,7 +21,7 @@ namespace AchtungDieCurve
             {
                 for (int j = 0; j < 50; j++)
                 {
-                    if (i < 4 || i > 44 || j < 4 || j > 44)
+                    if (i == 0 || i == 49 || j == 0 || j == 49)
                     {
                         mapa[i, j] = 1;
                     }

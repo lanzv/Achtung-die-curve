@@ -169,3 +169,17 @@ D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurv
 D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
 D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
 D:\Achtung die kurve\achtung die curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe.config
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\bin\Debug\AchtungDieCurve.pdb
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csprojAssemblyReference.cache
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Form1.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfGame.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.Properties.Resources.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfMainMenu.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfPlayerSettings.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.WindowOfResults.resources
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.GenerateResource.cache
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.csproj.CoreCompileInputs.cache
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.exe
+C:\Users\Vojta\Source\Repos\lanzv\Achtung-die-curve\WindowsFormsApp2\obj\Debug\AchtungDieCurve.pdb

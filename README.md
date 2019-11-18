@@ -1,5 +1,6 @@
 # Achtung-die-curve
-Final semestral program of first year studying
+Final semestral program of first year studying.
+
 C # graphical application using Windows forms. The Achtung Die curve is similar to a classic snake, but with more snakes and all directions of movement.
 
 This app is designed for 6 players (optional if the player is a human or computer).
